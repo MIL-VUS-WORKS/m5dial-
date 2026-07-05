@@ -13,7 +13,7 @@ This project was based off Sebwap's [M5Dial_FlightRadar](https://github.com/Sebw
 STL files for a stand are included in the [`stl/`](stl) directory.
 
 <p align="center">
-  <img src="doc/images/m5flight_dial.jpeg" width="600" alt="m5flight_dial showing nearby aircraft on the compass display">
+  <img src="doc/images/m5dial.png" width="600" alt="m5flight_dial showing nearby aircraft on the compass display">
 </p>
 
 ## Requirements
