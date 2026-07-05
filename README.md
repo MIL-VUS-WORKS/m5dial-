@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="doc/images/logo.png" width="300" alt="m5flight_dial logo">
+  <img src="doc/images/m5dial.png" width="300" alt="m5flight_dial logo">
 </p>
 
 # m5flight_dial
